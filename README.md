@@ -21,6 +21,18 @@
 
 Mistral Vibe is a command-line coding assistant powered by Mistral's models. It provides a conversational interface to your codebase, allowing you to use natural language to explore, modify, and interact with your projects through a powerful set of tools.
 
+## Recent Improvements
+
+We've made significant enhancements to Mistral Vibe:
+
+- **Plugin System**: Added a comprehensive plugin architecture for extending functionality
+- **Compounding Engineering**: Implemented advanced compounding techniques for improved performance
+- **Performance Upgrades**: Major performance improvements across the board
+- **FPS Optimization**: Fixed and optimized frame-per-second rendering for smoother UI
+- **Enhanced Tooling**: Added new tools and improved existing ones
+- **Better Configuration**: More flexible and powerful configuration options
+- **Improved Safety**: Enhanced safety features and tool execution controls
+
 > [!WARNING]
 > Mistral Vibe works on Windows, but we officially support and target UNIX environments.
 
